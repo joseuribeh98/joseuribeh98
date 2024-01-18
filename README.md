@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IDAcademy creating the most powerfull affiliate marketing app<br>🌱 I’m currently learning Next.js 13 @DevTalles<br>👨‍💻 All of my projects are available at https://b8ru.online<br>📫 How to reach me jose.uribe@uao.edu.co<br>📄 Know about my experiences https://linkedin.com/in/joseuribeh
+🔭 I’m currently working on IDAcademy creating the most powerfull affiliate marketing app<br>🌱 I’m currently learning Next.js 13 @DevTalles<br>📫 How to reach me jose.uribe@uao.edu.co<br>📄 Know about my experiences https://linkedin.com/in/joseuribeh
 
 
 ## 🌐 Socials:
