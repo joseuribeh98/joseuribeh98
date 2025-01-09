@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IDAcademy creating the most powerfull affiliate marketing app<br>🌱 I’m currently learning Next.js 13 @DevTalles<br>📫 How to reach me jose.uribe@uao.edu.co<br>📄 Know about my experiences https://linkedin.com/in/joseuribeh
+🔭 I’m currently working as a full stack freelance developer<br>🌱 I’m currently learning Laravel/Filament<br>📫 How to reach me jose@overnatic.us<br>📄 Know about my experiences https://linkedin.com/in/joseuribeh
 
 
 ## 🌐 Socials:
