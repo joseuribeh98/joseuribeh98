@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a full stack freelance developer<br>🌱 I’m currently learning Laravel/Filament<br>📫 How to reach me jose@overnatic.us<br>📄 Know about my experiences https://linkedin.com/in/joseuribeh
+🔭 I’m currently working as a full stack freelance developer<br>🌱 I’m currently learning AI-DLC<br>📫 How to reach me jose@overnatic.us<br>📄 Know about my experiences https://linkedin.com/in/joseuribeh
 
 
 ## 🌐 Socials:
