@@ -2,19 +2,13 @@
 
 **Full Stack Engineer · Fintech · React, TypeScript, Node**
 
-I build production software for financial services. Currently at SoftwareONE, working on digital banking products for a financial institution in Colombia: a shared React component library used across product teams, and the end to end flow for opening digital term deposits (CDT).
+I build production software for financial services. Currently at SoftwareONE, where I lead the development of the advisor assisted flow for a digital financial product at a bank in Colombia.
 
-<!-- PENDIENTE: cuando tengas los datos, reemplazar "used across product teams" por "used across N product teams" y añadir la métrica del flujo de CDT (volumen mensual, reducción del tiempo de apertura, o % de aperturas por canal digital). -->
+<!-- PENDIENTE: añadir una métrica del flujo cuando la tengas (volumen mensual, reducción del tiempo de completado, o tasa de conversión frente al canal anterior). Va al final de la frase de arriba. -->
 
 Three years shipping and maintaining systems that move money. Based in Cali, Colombia. Open to remote roles in LatAm and the US.
 
 ## Selected work
-
-**[teacher](https://github.com/joseuribeh98/teacher)** · Angular 20, .NET 10, PostgreSQL, Docker
-Multi tenant platform for teachers to manage students, classes and progress tracking. Standalone components and signals on the front, EF Core API with JWT auth and per tenant isolation on the back, per tenant currency and pay modes. Deployed on Render. Personal project, not actively maintained.
-
-**[fr33](https://github.com/joseuribeh98/fr33-front)** · Next.js, TypeScript, Clerk, Laravel, Wompi
-Invoicing platform for Colombian freelancers with a freemium model and recurring card payments. Handles subscription state, plan limits and payment webhooks. Atomic design component structure. [API repo](https://github.com/joseuribeh98/fr33-back).
 
 **[joseuribe.dev](https://github.com/joseuribeh98/personal-site)** · Astro, Sanity, Tailwind
 My site. Static output with a headless CMS non technical users can edit, three locales, AA contrast, JSON-LD, security headers and a Lighthouse budget enforced in CI.
@@ -24,6 +18,14 @@ Automates debt collection reminders over SMS.
 
 **[scout-groups-finder](https://github.com/joseuribeh98/scout-groups-finder)** · JavaScript
 Interactive map of scout groups across Valle del Cauca, Colombia.
+
+## Built, not public
+
+Two systems I designed and shipped end to end. Source is private. Happy to walk through the architecture and the code in an interview.
+
+**Multi tenant SaaS for managing teachers, students and classes.** Angular 20 with standalone components and signals, .NET 10 API with EF Core, JWT auth and per tenant isolation, PostgreSQL, Docker Compose. Deployed on Render.
+
+**Invoicing platform for freelancers**, freemium model with recurring card payments through Wompi. Next.js and Clerk on the front, Laravel API on the back. Subscription state, plan limits and payment webhooks.
 
 ## Stack
 
